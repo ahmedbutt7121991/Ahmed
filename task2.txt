@@ -2,6 +2,13 @@ Aoa
 BismillaHirahmanirahem
 Alhandulillah
 
+<<<<<<< Updated upstream
 changing file in branch B
 
 commit 2
+=======
+task2 change in branch A
+commit 1
+
+adding changes to A and Commiting to B
+>>>>>>> Stashed changes
