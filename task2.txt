@@ -1,3 +1,7 @@
 Aoa
 BismillaHirahmanirahem
 Alhandulillah
+
+changing file in branch B
+
+commit 2
