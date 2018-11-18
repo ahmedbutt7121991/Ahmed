@@ -10,5 +10,9 @@ commit 2
 task2 change in branch A
 commit 1
 
+<<<<<<< Updated upstream
+adding changes to A and Commiting to B
+>>>>>>> Stashed changes
+=======
 adding changes to A and Commiting to B
 >>>>>>> Stashed changes
