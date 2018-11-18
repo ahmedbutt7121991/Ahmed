@@ -1,3 +1,6 @@
 Aoa
 BismillaHirahmanirahem
 Alhandulillah
+
+task2 change in branch A
+commit 1
